@@ -1031,12 +1031,6 @@
   },
   "ExploreButtons": [
     {
-      "icon": "extension",
-      "image": "",
-      "name": "Explore by competency",
-      "route": "/app/learn/browse-by/competency/all-competencies"
-    },
-    {
       "icon": "scatter_plot",
       "image": "",
       "name": "Explore by provider",
