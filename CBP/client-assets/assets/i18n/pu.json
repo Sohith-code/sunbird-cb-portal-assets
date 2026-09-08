@@ -853,7 +853,9 @@
     "curatedEvents": "ਕਿਊਰੇਟਿਡ ਇਵੈਂਟਸ",
     "mdoEvents": "ਤੁਹਾਡੇ ਐੱਮਡੀਓ ਵਿੱਚ ਸਮਾਗਮ",
     "webinar": "ਵੈਬੀਨਾਰ",
-    "karmayogiTalks": "ਕਰਮਯੋਗੀ ਗੱਲਬਾਤ"
+    "karmayogiTalks": "ਕਰਮਯੋਗੀ ਗੱਲਬਾਤ",
+    "samuhikCharcha-Nlw2026": "ਸਾਮੂਹਿਕ ਚਰਚਾ - NLW 2026",
+    "sadhanaSaptah": "ਸਾਧਨਾ ਸਪਤਾਹ"
   },
   "eventDetailsRightCard": {
     "viewRecording": "ਰਿਕਾਰਡ ਦੇਖੋ",
@@ -1652,7 +1654,8 @@
     "webpage": "ਵੈੱਬਪੇਜ",
     "by": "ਦੁਆਰਾ",
     "noResults": "ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ ਮਿਲਿਆ",
-    "removeFilters": "ਫਿਲਟਰਾਂ ਨੂੰ ਹਟਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜਾਂ ਵੱਖ-ਵੱਖ ਕੀਵਰਡਸ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਖੋਜ ਕਰੋ"
+    "removeFilters": "ਫਿਲਟਰਾਂ ਨੂੰ ਹਟਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜਾਂ ਵੱਖ-ਵੱਖ ਕੀਵਰਡਸ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਖੋਜ ਕਰੋ",
+    "goToManageEvents": "ਘਟਨਾ ਪ੍ਰਬੰਧਨ ਤੇ ਜਾਓ"
   },
   "searchfilters": {
     "filterSearch": "ਫਿਲਟਰ ਖੋਜ",
@@ -1676,7 +1679,9 @@
     "lastMonth": "ਪਿਛਲੇ ਮਹੀਨੇ",
     "last3Months": "ਪਿਛਲੇ 3 ਮਹੀਨੇ",
     "last6Months": "ਪਿਛਲੇ 6 ਮਹੀਨੇ",
-    "lastYear": "ਪਿਛਲੇ ਸਾਲ"
+    "lastYear": "ਪਿਛਲੇ ਸਾਲ",
+    "eventStatus": "ਘਟਨਾ ਦੀ ਸਥਿਤੀ",
+    "eventDate": "ਘਟਨਾ ਦੀ ਤਾਰੀਖ"
   },
   "utilslogout": {
     "logoutNow": "ਹੁਣ ਲਾਗ ਆਊਟ ਕਰੋ",

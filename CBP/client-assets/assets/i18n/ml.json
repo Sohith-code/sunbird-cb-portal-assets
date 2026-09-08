@@ -853,7 +853,9 @@
     "curatedEvents": "ക്യൂറേറ്റഡ് പരിപാടികൾ",
     "mdoEvents": "നിങ്ങളുടെ എം. ഡി. ഒയിലെ പരിപാടികൾ",
     "webinar": "വെബിനാർ",
-    "karmayogiTalks": "കർമ്മയോഗി ചർച്ചകൾ"
+    "karmayogiTalks": "കർമ്മയോഗി ചർച്ചകൾ",
+    "samuhikCharcha-Nlw2026": "സാമൂഹിക് ചർച്ച - NLW 2026",
+    "sadhanaSaptah": "സാധന സപ്താഹ്"
   },
   "eventDetailsRightCard": {
     "viewRecording": "റെക്കോർഡിംഗ് കാണുക",
@@ -1652,7 +1654,8 @@
     "webpage": "വെബ്പേജ്",
     "by": "വഴി",
     "noResults": "ഫലങ്ങളൊന്നും കണ്ടെത്തിയില്ല",
-    "removeFilters": "ഫിൽട്ടറുകൾ നീക്കം ചെയ്യാനോ വ്യത്യസ്ത കീവേഡുകൾ ഉപയോഗിച്ച് തിരയാനോ ശ്രമിക്കുക."
+    "removeFilters": "ഫിൽട്ടറുകൾ നീക്കം ചെയ്യാനോ വ്യത്യസ്ത കീവേഡുകൾ ഉപയോഗിച്ച് തിരയാനോ ശ്രമിക്കുക.",
+    "goToManageEvents": "പരിപാടികൾ കൈകാര്യം ചെയ്യാൻ പോകുക"
   },
   "searchfilters": {
     "filterSearch": "ഫിൽട്ടർ തിരയൽ",
@@ -1676,7 +1679,9 @@
     "lastMonth": "കഴിഞ്ഞ മാസം",
     "last3Months": "കഴിഞ്ഞ 3 മാസങ്ങൾ",
     "last6Months": "കഴിഞ്ഞ 6 മാസം",
-    "lastYear": "കഴിഞ്ഞ വർഷം"
+    "lastYear": "കഴിഞ്ഞ വർഷം",
+    "eventStatus": "പരിപാടിയുടെ നില",
+    "eventDate": "പരിപാടിയുടെ തീയതി"
   },
   "utilslogout": {
     "logoutNow": "ഇപ്പോൾ ലോഗ് ഔട്ട് ചെയ്യുക",

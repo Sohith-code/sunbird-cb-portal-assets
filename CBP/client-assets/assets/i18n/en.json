@@ -1033,7 +1033,9 @@
         "rajyaKarmayogiSpatah": "Rajya Karmayogi Saptah",
         "moreKarmaPoints": "more KarmaPoints",
         "completedEvent": "You completed this event on",
-        "search": "Search events..."
+        "search": "Search events...",
+        "samuhikCharcha-Nlw2026": "Samuhik Charcha - NLW 2026",
+        "sadhanaSaptah": "Sadhana Saptah"
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",
@@ -2041,7 +2043,8 @@
         "createdDate": "Created Date",
         "backToHomePage": "Back to home page",
         "goToManageContents": "Goto manage contents",
-        "users": "Users"
+        "users": "Users",
+        "goToManageEvents": "Goto manage events"
     },
     "searchfilters": {
         "caseStudy": "Case Study",
@@ -2102,7 +2105,9 @@
         "multilingualCourse": "Multilingual Course",
         "learningPathway": "Learning Pathway",
         "contentStatus": "Content Status",
-        "createdDate": "Created Date"
+        "createdDate": "Created Date",
+        "eventStatus": "Event Status",
+        "eventDate": "Event Date"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",
