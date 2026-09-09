@@ -1,8 +1,8 @@
 {
-    "planYears": ["2026-27", "2025-26", "2024-25"],
+    "planYears": ["2027-28", "2026-27", "2025-26"],
     "planTypes": [
         { "id": "apar", "name": "APAR" },
-        { "id": "cbPlan", "name": "Training plan" },
+        { "id": "cbPlan", "name": "CBP Plan" },
         { "id": "AICBP", "name": "Draft AI CBP plan" }
     ],
     "cbpConfig" : {
