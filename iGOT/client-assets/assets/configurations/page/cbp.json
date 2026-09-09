@@ -3,7 +3,7 @@
     "planTypes": [
         { "id": "apar", "name": "APAR" },
         { "id": "cbPlan", "name": "CBP Plan" },
-        { "id": "AICBP", "name": "Draft AI CBP plan" }
+        { "id": "AICBP", "name": "Draft AI CBP Plan" }
     ],
     "cbpConfig" : {
         "insightOnRight": {
