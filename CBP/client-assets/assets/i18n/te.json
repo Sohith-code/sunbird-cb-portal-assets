@@ -853,7 +853,9 @@
     "curatedEvents": "క్యూరేటెడ్ ఈవెంట్లు",
     "mdoEvents": "మీ ఎం. డి. ఓ. లో ఈవెంట్స్",
     "webinar": "వెబ్నార్",
-    "karmayogiTalks": "కర్మయోగి చర్చలు"
+    "karmayogiTalks": "కర్మయోగి చర్చలు",
+    "samuhikCharcha-Nlw2026": "సామూహిక చర్చ - NLW 2026",
+    "sadhanaSaptah": "సాధన సప్తాహ్"
   },
   "eventDetailsRightCard": {
     "viewRecording": "రికార్డింగ్ను వీక్షించండి",
@@ -1652,7 +1654,8 @@
     "webpage": "వెబ్ పేజీ",
     "by": "ద్వారా.",
     "noResults": "ఎటువంటి ఫలితాలు దొరకలేదు",
-    "removeFilters": "ఫిల్టర్లను తొలగించడానికి ప్రయత్నించండి లేదా వేర్వేరు కీలక పదాలను ఉపయోగించి శోధించండి"
+    "removeFilters": "ఫిల్టర్లను తొలగించడానికి ప్రయత్నించండి లేదా వేర్వేరు కీలక పదాలను ఉపయోగించి శోధించండి",
+    "goToManageEvents": "ఈవెంట్‌ల నిర్వహణకు వెళ్లండి"
   },
   "searchfilters": {
     "filterSearch": "శోధనను వడపోత చేయండి",
@@ -1676,7 +1679,9 @@
     "lastMonth": "గత నెల",
     "last3Months": "గత 3 నెలలు",
     "last6Months": "గత 6 నెలలు",
-    "lastYear": "గత సంవత్సరం"
+    "lastYear": "గత సంవత్సరం",
+    "eventStatus": "ఈవెంట్ స్థితి",
+    "eventDate": "ఈవెంట్ తేదీ"
   },
   "utilslogout": {
     "logoutNow": "ఇప్పుడు లాగౌట్ చేయండి",
