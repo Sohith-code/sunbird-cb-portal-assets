@@ -853,7 +853,9 @@
     "curatedEvents": "কিউৰেট কৰা অনুষ্ঠানসমূহ",
     "mdoEvents": "আপোনাৰ এম. ডি. অ '.-ৰ অনুষ্ঠানসমূহ",
     "webinar": "ৱেবিনাৰ",
-    "karmayogiTalks": "কৰ্মযোগীৰ কথোপকথন"
+    "karmayogiTalks": "কৰ্মযোগীৰ কথোপকথন",
+    "samuhikCharcha-Nlw2026": "সামূহিক চৰ্চা - NLW 2026",
+    "sadhanaSaptah": "সাধনা সপ্তাহ"
   },
   "eventDetailsRightCard": {
     "viewRecording": "ৰেকৰ্ডিং চাওক",
@@ -1652,7 +1654,8 @@
     "webpage": "ৱেবপৃষ্ঠা",
     "by": "ইয়াৰ দ্বাৰা",
     "noResults": "কোনো ফলাফল পোৱা নগল",
-    "removeFilters": "ফিল্টাৰবোৰ আঁতৰাবলৈ চেষ্টা কৰক বা বিভিন্ন কিৱাৰ্ড ব্যৱহাৰ কৰি সন্ধান কৰক"
+    "removeFilters": "ফিল্টাৰবোৰ আঁতৰাবলৈ চেষ্টা কৰক বা বিভিন্ন কিৱাৰ্ড ব্যৱহাৰ কৰি সন্ধান কৰক",
+    "goToManageEvents": "অনুষ্ঠান ব্যৱস্থাপনালৈ যাওক"
   },
   "searchfilters": {
     "filterSearch": "সন্ধান ফিল্টাৰ কৰক",
@@ -1676,7 +1679,9 @@
     "lastMonth": "যোৱা মাহত",
     "last3Months": "যোৱা 3 মাহ",
     "last6Months": "বিগত 6 মাহ",
-    "lastYear": "যোৱা বছৰ"
+    "lastYear": "যোৱা বছৰ",
+    "eventStatus": "অনুষ্ঠানৰ স্থিতি",
+    "eventDate": "অনুষ্ঠানৰ তাৰিখ"
   },
   "utilslogout": {
     "logoutNow": "এতিয়া লগআউট কৰক",

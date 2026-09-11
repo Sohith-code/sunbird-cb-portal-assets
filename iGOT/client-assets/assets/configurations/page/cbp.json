@@ -1,4 +1,10 @@
 {
+    "planYears": ["2027-28", "2026-27", "2025-26"],
+    "planTypes": [
+        { "id": "apar", "name": "APAR" },
+        { "id": "cbPlan", "name": "CBP Plan" },
+        { "id": "AICBP", "name": "Draft AI CBP Plan" }
+    ],
     "cbpConfig" : {
         "insightOnRight": {
           "active" : false
@@ -38,7 +44,8 @@
           "path": "/page/cbp",
           "viewMoreText": "Show all",
           "queryParams": {
-            "key": "cbpPlan"
+            "key": "cbpPlan",
+            "isApar": false
           },
           "loaderConfig": {
             "cardSubType": "card-portrait-click-skeleton"

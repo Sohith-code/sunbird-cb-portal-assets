@@ -954,7 +954,9 @@
     "karmayogiTalks": "कर्मयोगी टॉक्स",
     "live": "लाइव",
     "karmayogiSaptah": "कर्मयोगी सप्ताह",
-    "completedEvent": "आपने यह ईवेंट पूरा लिया"
+    "completedEvent": "आपने यह ईवेंट पूरा लिया",
+    "samuhikCharcha-Nlw2026": "सामूहिक चर्चा - NLW 2026",
+    "sadhanaSaptah": "साधना सप्ताह"
   },
   "eventDetailsRightCard": {
     "viewRecording": "रिकॉर्डिंग देखें",
@@ -1810,7 +1812,8 @@
     "webpage": "वेबपेज",
     "by": "से",
     "noResults": "कोई परिणाम नहीं मिला",
-    "removeFilters": "फ़िल्टर को हटाने का प्रयास करें या अलग-अलग मुख्य शब्दों का उपयोग करके खोजें"
+    "removeFilters": "फ़िल्टर को हटाने का प्रयास करें या अलग-अलग मुख्य शब्दों का उपयोग करके खोजें",
+    "goToManageEvents": "ईवेंट प्रबंधन पर जाएं"
   },
   "searchfilters": {
     "karmayogiSaptah": "कर्मयोगी सप्ताह",
@@ -1845,7 +1848,9 @@
     "completed": "पूरा किया।",
     "behavioural": "बिहेवियरल (व्यावहारिक)",
     "functional": "फंक्शनल",
-    "domain": "डोमेन"
+    "domain": "डोमेन",
+    "eventStatus": "ईवेंट की स्थिति",
+    "eventDate": "ईवेंट की तारीख"
   },
   "utilslogout": {
     "logoutNow": "अभी लॉगआउट करें",

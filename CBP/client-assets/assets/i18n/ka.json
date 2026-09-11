@@ -853,7 +853,9 @@
     "curatedEvents": "ಕ್ಯೂರಿಯೇಟೆಡ್ ಈವೆಂಟ್ಗಳು",
     "mdoEvents": "ನಿಮ್ಮ ಎಂ. ಡಿ. ಓ. ನಲ್ಲಿನ ಕಾರ್ಯಕ್ರಮಗಳು",
     "webinar": "ವೆಬಿನಾರ್",
-    "karmayogiTalks": "ಕರ್ಮಯೋಗಿ ಮಾತುಕತೆಗಳು"
+    "karmayogiTalks": "ಕರ್ಮಯೋಗಿ ಮಾತುಕತೆಗಳು",
+    "samuhikCharcha-Nlw2026": "ಸಾಮೂಹಿಕ ಚರ್ಚಾ - NLW 2026",
+    "sadhanaSaptah": "ಸಾಧನಾ ಸಪ್ತಾಹ"
   },
   "eventDetailsRightCard": {
     "viewRecording": "ರೆಕಾರ್ಡಿಂಗ್ ಅನ್ನು ವೀಕ್ಷಿಸಿ",
@@ -1652,7 +1654,8 @@
     "webpage": "ಜಾಲತಾಣ",
     "by": "ಮೂಲಕ",
     "noResults": "ಯಾವುದೇ ಫಲಿತಾಂಶಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
-    "removeFilters": "ಶೋಧಕಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಪ್ರಯತ್ನಿಸಿ ಅಥವಾ ವಿವಿಧ ಕೀವರ್ಡ್ಗಳನ್ನು ಬಳಸಿ ಹುಡುಕಿ"
+    "removeFilters": "ಶೋಧಕಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಪ್ರಯತ್ನಿಸಿ ಅಥವಾ ವಿವಿಧ ಕೀವರ್ಡ್ಗಳನ್ನು ಬಳಸಿ ಹುಡುಕಿ",
+    "goToManageEvents": "ಕಾರ್ಯಕ್ರಮಗಳ ನಿರ್ವಹಣೆಗೆ ಹೋಗಿ"
   },
   "searchfilters": {
     "filterSearch": "ಶೋಧಕ ಹುಡುಕು",
@@ -1676,7 +1679,9 @@
     "lastMonth": "ಕಳೆದ ತಿಂಗಳು",
     "last3Months": "ಕಳೆದ 3 ತಿಂಗಳುಗಳು",
     "last6Months": "ಕಳೆದ 6 ತಿಂಗಳುಗಳು",
-    "lastYear": "ಕಳೆದ ವರ್ಷ"
+    "lastYear": "ಕಳೆದ ವರ್ಷ",
+    "eventStatus": "ಕಾರ್ಯಕ್ರಮದ ಸ್ಥಿತಿ",
+    "eventDate": "ಕಾರ್ಯಕ್ರಮದ ದಿನಾಂಕ"
   },
   "utilslogout": {
     "logoutNow": "ಈಗ ಲಾಗ್ ಔಟ್ ಮಾಡಿ",
