@@ -853,7 +853,9 @@
     "curatedEvents": "ସଞ୍ଚାଳିତ କାର୍ଯ୍ଯ଼କ୍ରମ",
     "mdoEvents": "ଆପଣଙ୍କ ଏମ୍. ଡି. ଓ. ରେ କାର୍ଯ୍ଯ଼କ୍ରମମାନ",
     "webinar": "ୱେବିନାର",
-    "karmayogiTalks": "କର୍ମଯୋଗୀ ବାର୍ତ୍ତାଳାପ"
+    "karmayogiTalks": "କର୍ମଯୋଗୀ ବାର୍ତ୍ତାଳାପ",
+    "samuhikCharcha-Nlw2026": "ସାମୂହିକ ଚର୍ଚ୍ଚା - NLW 2026",
+    "sadhanaSaptah": "ସାଧନା ସପ୍ତାହ"
   },
   "eventDetailsRightCard": {
     "viewRecording": "ରେକର୍ଡିଂ ଦେଖନ୍ତୁ",
@@ -1652,7 +1654,8 @@
     "webpage": "ୱେବପେଜ୍",
     "by": "ଦ୍ୱାରା",
     "noResults": "କୌଣସି ଫଳାଫଳ ମିଳିନାହିଁ",
-    "removeFilters": "ଫିଲ୍ଟର୍ଗୁଡ଼ିକୁ ହଟାଇବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ କିମ୍ବା ବିଭିନ୍ନ କିୱାର୍ଡ ବ୍ଯ଼ବହାର କରି ଖୋଜନ୍ତୁ।"
+    "removeFilters": "ଫିଲ୍ଟର୍ଗୁଡ଼ିକୁ ହଟାଇବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ କିମ୍ବା ବିଭିନ୍ନ କିୱାର୍ଡ ବ୍ଯ଼ବହାର କରି ଖୋଜନ୍ତୁ।",
+    "goToManageEvents": "କାର୍ଯ୍ୟକ୍ରମ ପରିଚାଳନାକୁ ଯାଆନ୍ତୁ"
   },
   "searchfilters": {
     "filterSearch": "ସନ୍ଧାନକୁ ଫିଲ୍ଟର୍ କରନ୍ତୁ",
@@ -1676,7 +1679,9 @@
     "lastMonth": "ଗତ ମାସରେ",
     "last3Months": "ଗତ 3 ମାସ",
     "last6Months": "ଗତ 6 ମାସ",
-    "lastYear": "ଗତ ବର୍ଷ"
+    "lastYear": "ଗତ ବର୍ଷ",
+    "eventStatus": "କାର୍ଯ୍ୟକ୍ରମର ସ୍ଥିତି",
+    "eventDate": "କାର୍ଯ୍ୟକ୍ରମର ତାରିଖ"
   },
   "utilslogout": {
     "logoutNow": "ବର୍ତ୍ତମାନ ଲଗଆଉଟ କରନ୍ତୁ",

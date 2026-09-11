@@ -855,7 +855,9 @@
     "curatedEvents": "কিউরেটেড ইভেন্ট",
     "mdoEvents": "আপনার এম. ডি. ও-তে অনুষ্ঠান",
     "webinar": "ওয়েবিনার",
-    "karmayogiTalks": "কর্মযোগী আলোচনা"
+    "karmayogiTalks": "কর্মযোগী আলোচনা",
+    "samuhikCharcha-Nlw2026": "সামূহিক চর্চা - NLW 2026",
+    "sadhanaSaptah": "সাধনা সপ্তাহ"
   },
   "eventDetailsRightCard": {
     "viewRecording": "রেকর্ডিং দেখুন",
@@ -1671,7 +1673,8 @@
     "webpage": "ওয়েবপেজ",
     "by": "দ্বারা",
     "noResults": "কোন ফলাফল পাওয়া যায়নি",
-    "removeFilters": "ফিল্টারগুলি সরিয়ে ফেলার চেষ্টা করুন অথবা বিভিন্ন কীওয়ার্ড ব্যবহার করে অনুসন্ধান করুন।"
+    "removeFilters": "ফিল্টারগুলি সরিয়ে ফেলার চেষ্টা করুন অথবা বিভিন্ন কীওয়ার্ড ব্যবহার করে অনুসন্ধান করুন।",
+    "goToManageEvents": "অনুষ্ঠান ব্যবস্থাপনায় যান"
   },
   "searchfilters": {
     "filterSearch": "অনুসন্ধান ফিল্টার করুন",
@@ -1695,7 +1698,9 @@
     "lastMonth": "গত মাসে",
     "last3Months": "গত 3 মাস",
     "last6Months": "গত 6 মাস",
-    "lastYear": "গত বছর"
+    "lastYear": "গত বছর",
+    "eventStatus": "অনুষ্ঠানের স্থিতি",
+    "eventDate": "অনুষ্ঠানের তারিখ"
   },
   "utilslogout": {
     "logoutNow": "এখন লগআউট করুন",

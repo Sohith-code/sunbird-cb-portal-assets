@@ -853,7 +853,9 @@
     "curatedEvents": "आयोजित कार्यक्रम",
     "mdoEvents": "तुमच्या एम. डी. ओ. मधील कार्यक्रम",
     "webinar": "वेबिनार",
-    "karmayogiTalks": "कर्मयोगी संवाद"
+    "karmayogiTalks": "कर्मयोगी संवाद",
+    "samuhikCharcha-Nlw2026": "सामूहिक चर्चा - NLW 2026",
+    "sadhanaSaptah": "साधना सप्ताह"
   },
   "eventDetailsRightCard": {
     "viewRecording": "ध्वनिमुद्रण पहा",
@@ -1652,7 +1654,8 @@
     "webpage": "संकेतस्थळ",
     "by": "द्वारे",
     "noResults": "कोणतेही परिणाम आढळले नाहीत",
-    "removeFilters": "फिल्टर काढून टाकण्याचा प्रयत्न करा किंवा वेगवेगळे मुख्य शब्द वापरून शोधा"
+    "removeFilters": "फिल्टर काढून टाकण्याचा प्रयत्न करा किंवा वेगवेगळे मुख्य शब्द वापरून शोधा",
+    "goToManageEvents": "कार्यक्रम व्यवस्थापनावर जा"
   },
   "searchfilters": {
     "filterSearch": "शोध फिल्टर करा",
@@ -1676,7 +1679,9 @@
     "lastMonth": "गेल्या महिन्यात",
     "last3Months": "मागील 3 महिने",
     "last6Months": "मागील 6 महिने",
-    "lastYear": "गेल्या वर्षी"
+    "lastYear": "गेल्या वर्षी",
+    "eventStatus": "कार्यक्रमाची स्थिती",
+    "eventDate": "कार्यक्रमाची तारीख"
   },
   "utilslogout": {
     "logoutNow": "आता लॉगआऊट करा",
