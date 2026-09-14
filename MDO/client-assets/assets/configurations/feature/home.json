@@ -265,6 +265,23 @@
               ]
             },
             {
+              "name": "Reusable User Groups",
+              "key": "reusable-user-groups",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/reusable-user-groups/list",
+              "requiredRoles": [
+                "admin",
+                "mdo_admin",
+                "mdo_leader"
+              ]
+            },
+            {
               "name": "Blended Programs",
               "key": "blended-approvals",
               "fragment": false,
