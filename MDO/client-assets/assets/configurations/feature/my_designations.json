@@ -56,7 +56,7 @@
     "noFileUploaded": "No File Uploaded",
     "pageSize": 10,
     "pageSizeOptions": [10, 20],
-    "downloadSampleUserFilePath": "/assets/common/user-bulk-creation-upload-sample.zip",
+    "downloadSampleUserFilePath": "/assets/userbulkuploadsample/user-bulk-creation-upload-sample.zip",
     "downloadAsUserFileName": "user-bulk-creation-upload-sample.zip",
     "downloadSampleNgoUserFilePath": "/assets/common/ngo-bulk-creation-upload-sample/ngo-bulk-creation-upload-sample.zip",
     "downloadAsNgoUserFileName": "ngo-bulk-creation-upload-sample.zip"
