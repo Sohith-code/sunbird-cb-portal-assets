@@ -281,6 +281,23 @@
                 "mdo_leader"
               ]
             },
+             {
+              "name": "Comprehensive Assessment",
+              "key": "comprehensive-assessment",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/comprehensive-assessment",
+              "requiredRoles": [
+                "admin",
+                "mdo_admin",
+                "mdo_leader"
+              ]
+            },
             {
               "name": "Blended Programs",
               "key": "blended-approvals",
