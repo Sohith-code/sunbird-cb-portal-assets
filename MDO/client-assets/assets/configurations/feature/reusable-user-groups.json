@@ -37,9 +37,10 @@
     ],
     "reachAction": { "key": "reach", "label": "Check reach", "icon": "person_outline" },
     "rowActions": [ 
-      { "key": "edit", "label": "Edit", "icon": "edit", "allowedRoles": ["mdo_admin", "mdo_leader"] },
-      { "key": "copy", "label": "Copy", "icon": "content_copy" },
-      { "key": "use", "label": "Use" }
+      { "enabled": true, "key": "edit", "label": "Edit", "icon": "edit", "allowedRoles": ["mdo_admin", "mdo_leader"], "ownerOnlyRoles": ["mdo_admin"] },
+      { "enabled": true, "key": "copy", "label": "Copy", "icon": "content_copy" },
+      { "enabled": true, "key": "use", "label": "Use" },
+      { "enabled": false, "key": "delete", "label": "Delete", "icon": "delete_outline", "allowedRoles": ["mdo_admin", "mdo_leader"], "ownerOnlyRoles": ["mdo_admin"] }
     ],
     "conditionLabel": { "singular": "condition", "plural": "conditions" },
     "emptyStateText": "No user groups created yet.",
