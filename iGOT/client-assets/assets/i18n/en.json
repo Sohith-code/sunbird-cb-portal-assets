@@ -292,6 +292,8 @@
     "inactive": "Inactive",
     "mostPopular": "Most popular",
     "availableInLanguages": "Available in {{count}} Languages",
+    "locked": "Locked",
+    "available": "Available",
     "completed": "Completed",
     "unenroll": "Un-enroll"
   },
@@ -307,7 +309,7 @@
   "planDetail": {
     "progressOnPlan": "Progress on this plan",
     "coursesCompleted": "Courses completed",
-    "caCourses": "CA Courses",
+    "caCourses": "CA Courses Completed",
     "comprehensiveAssessment": "Comprehensive Assessment",
     "dueDate": "Due Date",
     "reportingYear": "Reporting Year",
@@ -2162,6 +2164,7 @@
     "course": "Course",
     "learningResource": "Learning Resource",
     "standaloneAssessment": "Standalone Assessment",
+    "comprehensiveAssessment": "Comprehensive Assessment",
     "moderatedCourse": "Moderated Course",
     "moderatedCourses": "Moderated Courses",
     "moderatedProgram": "Moderated Program",
