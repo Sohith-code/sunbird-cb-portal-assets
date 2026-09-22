@@ -370,6 +370,7 @@
     "dulicateEmail": "ഇമെയിൽ ഇതിനകം തിരഞ്ഞെടുത്തിട്ടുണ്ട്"
   },
   "apptocsinglepage": {
+    "completeCoursesToUnlock": "നിങ്ങളുടെ വിലയിരുത്തൽ അൺലോക്ക് ചെയ്യാൻ {{count}} കോഴ്‌സുകൾ കൂടി പൂർത്തിയാക്കുക",
     "overview": "അവലോകനം",
     "content": "ഉള്ളടക്കം",
     "sessions": "സെഷനുകൾ",
@@ -553,6 +554,11 @@
     "batchListExpiredMsg": "ഈ മിശ്രിത പരിപാടിയിൽ നിങ്ങൾക്ക് ചേരാൻ കഴിയില്ല."
   },
   "apptochome": {
+    "notAttempted": "ശ്രമിച്ചിട്ടില്ല",
+    "attempted": "ശ്രമിച്ചു",
+    "attemptsRemaining": "<b>{{total}} ൽ {{remaining}}</b> ശ്രമങ്ങൾ ബാക്കി",
+    "locked": "ലോക്ക് ചെയ്തിരിക്കുന്നു",
+    "completeCoursesToUnlockAssessment": "ഈ വിലയിരുത്തൽ അൺലോക്ക് ചെയ്യാൻ മുകളിൽ പട്ടികപ്പെടുത്തിയ കോഴ്‌സുകൾ പൂർത്തിയാക്കുക",
     "resume": "പുനരാരംഭിക്കുക",
     "start": "ആരംഭിക്കുക.",
     "startAgain": "വീണ്ടും തുടങ്ങുക.",

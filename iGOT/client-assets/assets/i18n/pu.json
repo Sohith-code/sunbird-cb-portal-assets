@@ -370,6 +370,7 @@
     "dulicateEmail": "ਈਮੇਲ ਪਹਿਲਾਂ ਹੀ ਚੁਣੀ ਗਈ ਹੈ"
   },
   "apptocsinglepage": {
+    "completeCoursesToUnlock": "ਆਪਣਾ ਮੁਲਾਂਕਣ ਅਨਲਾਕ ਕਰਨ ਲਈ {{count}} ਹੋਰ ਕੋਰਸ ਪੂਰੇ ਕਰੋ",
     "overview": "ਸੰਖੇਪ ਜਾਣਕਾਰੀ",
     "content": "ਸਮੱਗਰੀ",
     "sessions": "ਸੈਸ਼ਨਾਂ",
@@ -553,6 +554,11 @@
     "batchListExpiredMsg": "ਤੁਸੀਂ ਇਸ ਮਿਸ਼ਰਤ ਪ੍ਰੋਗਰਾਮ ਵਿੱਚ ਦਾਖਲਾ ਨਹੀਂ ਲੈ ਸਕਦੇ।"
   },
   "apptochome": {
+    "notAttempted": "ਕੋਸ਼ਿਸ਼ ਨਹੀਂ ਕੀਤੀ",
+    "attempted": "ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+    "attemptsRemaining": "<b>{{total}} ਵਿੱਚੋਂ {{remaining}}</b> ਕੋਸ਼ਿਸ਼ਾਂ ਬਾਕੀ",
+    "locked": "ਲਾਕ ਕੀਤਾ ਗਿਆ",
+    "completeCoursesToUnlockAssessment": "ਇਸ ਮੁਲਾਂਕਣ ਨੂੰ ਅਨਲਾਕ ਕਰਨ ਲਈ ਉੱਪਰ ਸੂਚੀਬੱਧ ਕੋਰਸ ਪੂਰੇ ਕਰੋ",
     "resume": "ਮੁਡ਼ ਸ਼ੁਰੂ ਕਰੋ",
     "start": "ਸ਼ੁਰੂ ਕਰੋ",
     "startAgain": "ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ",

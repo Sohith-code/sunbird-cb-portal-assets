@@ -443,6 +443,7 @@
     "dulicateEmail": "ईमेल पहले से ही सिलेक्ट किया हुआ है"
   },
   "apptocsinglepage": {
+    "completeCoursesToUnlock": "अपना आकलन अनलॉक करने के लिए {{count}} और पाठ्यक्रम पूरे करें",
     "overview": "अवलोकन",
     "content": "कंटेन्ट",
     "sessions": "सत्र",
@@ -655,6 +656,11 @@
     "batchListExpiredMsg": "इस बलेंडेड कार्यक्रम में आपका नामांकन नहीं हो सकता"
   },
   "apptochome": {
+    "notAttempted": "प्रयास नहीं किया गया",
+    "attempted": "प्रयास किया गया",
+    "attemptsRemaining": "<b>{{total}} में से {{remaining}}</b> प्रयास शेष",
+    "locked": "लॉक किया गया",
+    "completeCoursesToUnlockAssessment": "इस आकलन को अनलॉक करने के लिए ऊपर सूचीबद्ध पाठ्यक्रम पूरे करें",
     "resume": "फिर से शुरू करें",
     "start": "शुरू करें",
     "startAgain": "फिर से शुरू करें",
