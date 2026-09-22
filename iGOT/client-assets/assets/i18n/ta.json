@@ -370,6 +370,7 @@
     "dulicateEmail": "மின்னஞ்சல் ஏற்கனவே தேர்ந்தெடுக்கப்பட்டுள்ளது"
   },
   "apptocsinglepage": {
+    "completeCoursesToUnlock": "உங்கள் மதிப்பீட்டைத் திறக்க மேலும் {{count}} பாடநெறிகளை முடிக்கவும்",
     "overview": "கண்ணோட்டம்",
     "content": "உள்ளடக்கம்",
     "sessions": "அமர்வுகள்",
@@ -553,6 +554,11 @@
     "batchListExpiredMsg": "இந்த கலப்பு திட்டத்தில் நீங்கள் பதிவு செய்ய முடியாது."
   },
   "apptochome": {
+    "notAttempted": "முயற்சிக்கவில்லை",
+    "attempted": "முயற்சிக்கப்பட்டது",
+    "attemptsRemaining": "<b>{{total}} இல் {{remaining}}</b> முயற்சிகள் மீதம்",
+    "locked": "பூட்டப்பட்டுள்ளது",
+    "completeCoursesToUnlockAssessment": "இந்த மதிப்பீட்டைத் திறக்க மேலே பட்டியலிடப்பட்டுள்ள பாடநெறிகளை முடிக்கவும்",
     "resume": "மீண்டும் தொடங்குங்கள்",
     "start": "தொடங்குங்கள்",
     "startAgain": "மீண்டும் தொடங்குங்கள்.",

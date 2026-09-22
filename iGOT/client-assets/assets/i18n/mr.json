@@ -370,6 +370,7 @@
     "dulicateEmail": "ईमेल आधीच निवडलेला आहे"
   },
   "apptocsinglepage": {
+    "completeCoursesToUnlock": "तुमचे मूल्यमापन अनलॉक करण्यासाठी आणखी {{count}} अभ्यासक्रम पूर्ण करा",
     "overview": "आढावा.",
     "content": "सामग्री.",
     "sessions": "सत्रे",
@@ -553,6 +554,11 @@
     "batchListExpiredMsg": "तुम्ही या मिश्रित योजनेत नावनोंदणी करू शकत नाही."
   },
   "apptochome": {
+    "notAttempted": "प्रयत्न केलेला नाही",
+    "attempted": "प्रयत्न केला",
+    "attemptsRemaining": "<b>{{total}} पैकी {{remaining}}</b> प्रयत्न शिल्लक",
+    "locked": "लॉक केलेले",
+    "completeCoursesToUnlockAssessment": "हे मूल्यमापन अनलॉक करण्यासाठी वर सूचीबद्ध केलेले अभ्यासक्रम पूर्ण करा",
     "resume": "पुन्हा सुरू करा",
     "start": "सुरुवात करा.",
     "startAgain": "पुन्हा सुरू करा.",

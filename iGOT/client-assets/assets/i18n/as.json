@@ -370,6 +370,7 @@
     "dulicateEmail": "ইতিমধ্যে ইমেইল নিৰ্বাচিত কৰা হৈছে"
   },
   "apptocsinglepage": {
+    "completeCoursesToUnlock": "আপোনাৰ মূল্যায়ন আনলক কৰিবলৈ আৰু {{count}} টা পাঠ্যক্ৰম সম্পূৰ্ণ কৰক",
     "overview": "সংক্ষিপ্ত বিৱৰণ",
     "content": "বিষয়বস্তু",
     "sessions": "অধিবেশনসমূহ",
@@ -553,6 +554,11 @@
     "batchListExpiredMsg": "আপুনি এই মিশ্ৰিত কাৰ্যসূচীত নাম ভৰ্তি কৰিব নোৱাৰিব।"
   },
   "apptochome": {
+    "notAttempted": "চেষ্টা কৰা হোৱা নাই",
+    "attempted": "চেষ্টা কৰা হৈছে",
+    "attemptsRemaining": "<b>{{total}} ৰ ভিতৰত {{remaining}}</b> প্ৰচেষ্টা বাকী আছে",
+    "locked": "লক কৰা আছে",
+    "completeCoursesToUnlockAssessment": "এই মূল্যায়ন আনলক কৰিবলৈ ওপৰত তালিকাভুক্ত পাঠ্যক্ৰমসমূহ সম্পূৰ্ণ কৰক",
     "resume": "পুনৰ আৰম্ভ কৰক",
     "start": "আৰম্ভ কৰক",
     "startAgain": "পুনৰ আৰম্ভ কৰক",

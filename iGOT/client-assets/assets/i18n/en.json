@@ -501,6 +501,7 @@
     "dulicateEmail": "Email is already selected"
   },
   "apptocsinglepage": {
+    "completeCoursesToUnlock": "Complete {{count}} more course(s) to unlock your assessment",
     "overview": "Overview",
     "content": "Content",
     "sessions": "Sessions",
@@ -715,6 +716,11 @@
     "batchListExpiredMsg": "You can't enroll into this blended program."
   },
   "apptochome": {
+    "notAttempted": "Not attempted",
+    "attempted": "Attempted",
+    "attemptsRemaining": "<strong>{{remaining}} of {{total}}</strong> attempts remaining",
+    "locked": "Locked",
+    "completeCoursesToUnlockAssessment": "Complete the courses listed above to unlock this assessment",
     "resume": "Resume",
     "start": "Start",
     "startAgain": "Start again",
