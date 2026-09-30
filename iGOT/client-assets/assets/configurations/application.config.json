@@ -82,8 +82,8 @@
     "clientId": "portal",
     "key": "ws-kc-token-storage",
     "realm": "sunbird",
-    "url": "https://portal.dev.karmayogibharat.net/protected/v8/resource",
-    "url2": "https://igot-dev.in/auth"
+    "url": "https://portal.igotkarmayogi.gov.in/protected/v8/resource",
+    "url2": "https://portal.igotkarmayogi.gov.in/auth"
   },
   "locals": [
     {
@@ -210,7 +210,7 @@
       "cdnContentHost": "https://portal.igotkarmayogi.gov.in",
         "azureHost": "https://iiidem-portal.igotkarmayogi.gov.in",
       "sitePath": "portal.igotkarmayogi.gov.in",
-      "karmayogiBharatLink": "https://qa.karmayogibharat.net"
+      "karmayogiBharatLink": "https://igotkarmayogi.gov.in"
     }
   },
   "sources": [
@@ -864,12 +864,12 @@
     "en": "/assets/common/user-manual/video-guide.mp4"
   },
   "portalUrls": {
-    "igot": "https://igot-dev.in/",
-    "spv": "https://spv.igot-dev.in/",
-    "mdo": "https://mdo.igot-dev.in/",
-    "cbc": "https://cbc.igot-dev.in/",
-    "cbp": "https://cbp.igot-dev.in/",
-    "frac": "https://frac-dictionary.igot-dev.in/"
+    "igot": "https://portal.igotkarmayogi.gov.in/",
+    "spv": "https://spv.igotkarmayogi.gov.in/",
+    "mdo": "https://mdo.igotkarmayogi.gov.in/",
+    "cbc": "https://cbc.igotkarmayogi.gov.in/",
+    "cbp": "https://cbp.igotkarmayogi.gov.in/",
+    "frac": "https://frac-dictionary.igotkarmayogi.gov.in/"
   },
   "websitelanguages": [
     {
@@ -997,7 +997,7 @@
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
-      "url": "https://cbp.igot-dev.in/author/cbp"
+      "url": "https://cbp.igotkarmayogi.gov.in/author/cbp"
     },
     "feature_cbc": {
       "icon": "/assets/icons/CBC_portal.svg",
@@ -1019,7 +1019,7 @@
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
-      "url": "https://cbc.igot-dev.in/app/home"
+      "url": "https://cbc.igotkarmayogi.gov.in/app/home"
     },
     "feature_mdo": {
       "icon": "/assets/icons/MDO_portal.svg",
@@ -1042,7 +1042,7 @@
       "status": "live",
       "toolTip": "MDO",
       "shortName": "MDP",
-      "url": "https://mdo.igot-dev.in/app/home"
+      "url": "https://mdo.igotkarmayogi.gov.in/app/home"
     },
     "feature_spv": {
       "icon": "/assets/icons/SPV_portal.svg",
@@ -1063,7 +1063,7 @@
       "status": "live",
       "toolTip": "SPV",
       "shortName": "SPV",
-      "url": "https://spv.igot-dev.in/app/home"
+      "url": "https://spv.igotkarmayogi.gov.in/app/home"
     },
     "feature_create": {
       "icon": "create",
