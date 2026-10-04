@@ -10,12 +10,12 @@
       {
         "role": "mdo_leader",
         "title": "Acting as MDO Leader",
-        "description": "You can create user groups and edit the conditions of existing groups."
+        "description": "You can create and manage all user groups within the organisation."
       },
       {
         "role": "mdo_admin",
         "title": "Acting as MDO Admin",
-        "description": "You can create user groups and edit the conditions of existing groups."
+        "description": "You can create user groups and edit the conditions of groups you have created."
       }
     ],
     "default": {
