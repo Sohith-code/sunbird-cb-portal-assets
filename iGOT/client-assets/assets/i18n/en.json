@@ -2206,6 +2206,8 @@
     "resource": "Resource ({{count}})",
     "resources": "Resources ({{count}})",
     "externalContent": "External Content ({{count}})",
+    "agk": "Amrit Gyaan Kosh ({{count}})",
+    "marketPlace": "Marketplace ({{count}})",
     "comprehensiveAssessmentProgram": "Comprehensive Assessment Program",
     "multilingualCourse": "Multilingual Course",
     "learningPathway": "Learning Pathway",
