@@ -2013,7 +2013,8 @@
     "iGOTSpecializationProgram": "iGOT સ્પેશિયલાઇઝેશન",
     "noEventScheduleYet": "હજી સુધી કોઈ ઇવેન્ટ્સ શેડ્યૂલ નથી",
     "seeMore": "વધુ જુઓ",
-    "seeLess": "ઓછું જુઓ"
+    "seeLess": "ઓછું જુઓ",
+    "showingResultsFor": "માટે પરિણામો બતાવી રહ્યાં છીએ"
   },
   "searchfilters": {
     "filterSearch": "શોધને ફિલ્ટર કરો",
@@ -2067,6 +2068,8 @@
     "resource": "સ્રોત ({{count}})",
     "resources": "સ્રોતો ({{count}})",
     "externalContent": "બાહ્ય સામગ્રી ({{count}})",
+    "agk": "અમૃત જ્ઞાન કોષ ({{count}})",
+    "marketPlace": "માર્કેટ પ્લેસ ({{count}})",
     "sadhanaSaptah": "साधना सप्ताह",
     "samuhikCharcha-Nlw2026": "सामूहिक चर्चा - NLW 2026"
   },
