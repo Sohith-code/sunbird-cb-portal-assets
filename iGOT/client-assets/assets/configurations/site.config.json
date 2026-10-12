@@ -76,7 +76,7 @@
     "key": "ws-kc-token-storage",
     "realm": "sunbird",
     "url2": "https://igot-dev.in/auth",
-    "url": "https://portal.igot-dev.in/protected/v8/resource/"
+    "url": "https://portal.dev.karmayogibharat.net/protected/v8/resource"
   },
   "locals": [
     {
