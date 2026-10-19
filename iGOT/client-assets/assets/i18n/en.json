@@ -1523,6 +1523,7 @@
     "firstEnroll": "for your 1st course enrolment.",
     "firstEnrollTip": "Note: This is only applicable for your first enrolment.",
     "courseCompleteTip": "Every course completion automatically gets you 5 Karma Points.",
+    "aparCourseCompleteTip": "Every APAR course completion automatically gets you 10 Karma Points.",
     "lpCompleteTip": "Every learning pathway completion automatically gets you 10 Karma Points.",
     "byCompleting": "by completing this course.",
     "byCompletingLP": "by completing this learning pathway.",
