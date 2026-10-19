@@ -2161,7 +2161,11 @@
     "noEventScheduleYet": "No events scheduled yet",
     "seeMore": "See More",
     "seeLess": "See Less",
-    "showingResultsFor": "Showing results for"
+    "showingResultsFor": "Showing results for",
+    "noResultsInCategories": "No results in these categories",
+    "noMatchingResults": "No matching results were found in the following categories:",
+    "noResultsForTerm": "Sorry, we couldn't find any results for ({{searchTerm}}).",
+    "adjustSearch": "Please try adjusting your search."
   },
   "searchfilters": {
     "caseStudy": "Case Study",
