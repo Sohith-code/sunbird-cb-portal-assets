@@ -242,7 +242,8 @@
       "shortName": "MyDashboard",
       "dashboardVisibility" : {
         "mdo" : true,
-        "myIgot" : true
+        "myIgot" : true,
+        "aiCbp" : true
       }
     },
     "feature_badges": {
